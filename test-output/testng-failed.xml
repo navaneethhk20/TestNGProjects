@@ -5,9 +5,6 @@
     <classes>
       <class name="lib.OrangeHRM">
         <methods>
-          <include name="VerifyLogin"/>
-          <include name="VerifyMyInfo"/>
-          <include name="NavigateToMyInfo"/>
           <include name="EnterLoginDetails"/>
         </methods>
       </class> <!-- lib.OrangeHRM -->
